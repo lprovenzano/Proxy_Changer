@@ -1,0 +1,10 @@
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\bin\Debug\RestIPTest.exe.config
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\bin\Debug\RestIPTest.exe
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\bin\Debug\RestIPTest.pdb
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\obj\Debug\RestIPTest.csproj.CoreCompileInputs.cache
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\obj\Debug\RestIPTest.exe
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\obj\Debug\RestIPTest.pdb
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\obj\Debug\RestIPTest.csprojAssemblyReference.cache
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\bin\Debug\Newtonsoft.Json.dll
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\bin\Debug\Newtonsoft.Json.xml
+c:\Users\luca_provenzano\source\repos\Proxy\RestIPTest\obj\Debug\RestIPTest.csproj.CopyComplete

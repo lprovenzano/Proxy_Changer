@@ -1,0 +1,7 @@
+c:\users\luca_provenzano\source\repos\Proxy\Proxy\bin\Debug\Proxy.exe.config
+c:\users\luca_provenzano\source\repos\Proxy\Proxy\bin\Debug\Proxy.exe
+c:\users\luca_provenzano\source\repos\Proxy\Proxy\bin\Debug\Proxy.pdb
+c:\users\luca_provenzano\source\repos\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+c:\users\luca_provenzano\source\repos\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+c:\users\luca_provenzano\source\repos\Proxy\Proxy\obj\Debug\Proxy.exe
+c:\users\luca_provenzano\source\repos\Proxy\Proxy\obj\Debug\Proxy.pdb
